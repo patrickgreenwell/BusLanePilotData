@@ -1,0 +1,3214 @@
+{
+  "97": {
+    "direction": [
+      {
+        "direction_id": "0",
+        "direction_name": "Outbound",
+        "stop": [
+          {
+            "stop_order": "1",
+            "stop_id": "5271",
+            "stop_name": "Wellington Station Busway",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.402581",
+            "stop_lon": "-71.076089"
+          },
+          {
+            "stop_order": "2",
+            "stop_id": "55631",
+            "stop_name": "Gateway Center opp. Texas Roadhouse",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.399817",
+            "stop_lon": "-71.070616"
+          },
+          {
+            "stop_order": "3",
+            "stop_id": "55632",
+            "stop_name": "Gateway Center @ Target",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.398945",
+            "stop_lon": "-71.070054"
+          },
+          {
+            "stop_order": "4",
+            "stop_id": "55633",
+            "stop_name": "Gateway Center on Exit Road",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.401637",
+            "stop_lon": "-71.07021"
+          },
+          {
+            "stop_order": "5",
+            "stop_id": "5563",
+            "stop_name": "Santilli Circle",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.40268",
+            "stop_lon": "-71.06754"
+          },
+          {
+            "stop_order": "6",
+            "stop_id": "5565",
+            "stop_name": "Broadway @ Gladstone St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.403864",
+            "stop_lon": "-71.058383"
+          },
+          {
+            "stop_order": "7",
+            "stop_id": "5695",
+            "stop_name": "Broadway @ Everett Sq",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.406792",
+            "stop_lon": "-71.055701"
+          },
+          {
+            "stop_order": "8",
+            "stop_id": "5510",
+            "stop_name": "Broadway @ Mansfield St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.407768",
+            "stop_lon": "-71.054757"
+          },
+          {
+            "stop_order": "9",
+            "stop_id": "5511",
+            "stop_name": "Broadway @ Summer St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.408826",
+            "stop_lon": "-71.053787"
+          },
+          {
+            "stop_order": "10",
+            "stop_id": "5513",
+            "stop_name": "Broadway @ High St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.410533",
+            "stop_lon": "-71.052194"
+          },
+          {
+            "stop_order": "11",
+            "stop_id": "5053",
+            "stop_name": "Hancock St @ Broadway",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.410936",
+            "stop_lon": "-71.052124"
+          },
+          {
+            "stop_order": "12",
+            "stop_id": "5054",
+            "stop_name": "Hancock St @ Glendale Rd",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.41303",
+            "stop_lon": "-71.055072"
+          },
+          {
+            "stop_order": "13",
+            "stop_id": "5055",
+            "stop_name": "Hancock St @ Central Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.414379",
+            "stop_lon": "-71.056954"
+          },
+          {
+            "stop_order": "14",
+            "stop_id": "5056",
+            "stop_name": "Hancock St @ Belmont St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.416344",
+            "stop_lon": "-71.059761"
+          },
+          {
+            "stop_order": "15",
+            "stop_id": "5057",
+            "stop_name": "62 Belmont St opp Kinsman St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.415675",
+            "stop_lon": "-71.0615"
+          },
+          {
+            "stop_order": "16",
+            "stop_id": "5058",
+            "stop_name": "Belmont St @ Main St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.415327",
+            "stop_lon": "-71.064299"
+          },
+          {
+            "stop_order": "17",
+            "stop_id": "5413",
+            "stop_name": "Main St @ Clarendon St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.416908",
+            "stop_lon": "-71.065277"
+          },
+          {
+            "stop_order": "18",
+            "stop_id": "45413",
+            "stop_name": "Medford St @ Main St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.41821",
+            "stop_lon": "-71.065671"
+          },
+          {
+            "stop_order": "19",
+            "stop_id": "44413",
+            "stop_name": "Medford St @ Brackenbury St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.418263",
+            "stop_lon": "-71.068234"
+          },
+          {
+            "stop_order": "20",
+            "stop_id": "45414",
+            "stop_name": "Medford St @ Green St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.418173",
+            "stop_lon": "-71.070712"
+          },
+          {
+            "stop_order": "21",
+            "stop_id": "45410",
+            "stop_name": "Canal St @ Cambridge Health Alliance",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.420707",
+            "stop_lon": "-71.072258"
+          },
+          {
+            "stop_order": "22",
+            "stop_id": "45417",
+            "stop_name": "Commercial St @ Charles St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.423378",
+            "stop_lon": "-71.07471"
+          },
+          {
+            "stop_order": "23",
+            "stop_id": "5327",
+            "stop_name": "Malden Ctr East Busway Bay 2 - Orange Line",
+            "parent_station": "place-mlmnl",
+            "parent_station_name": "Malden Center",
+            "stop_lat": "42.426632",
+            "stop_lon": "-71.07411"
+          }
+        ]
+      },
+      {
+        "direction_id": "1",
+        "direction_name": "Inbound",
+        "stop": [
+          {
+            "stop_order": "1",
+            "stop_id": "5327",
+            "stop_name": "Malden Ctr East Busway Bay 2 - Orange Line",
+            "parent_station": "place-mlmnl",
+            "parent_station_name": "Malden Center",
+            "stop_lat": "42.426632",
+            "stop_lon": "-71.07411"
+          },
+          {
+            "stop_order": "2",
+            "stop_id": "45327",
+            "stop_name": "Commercial St @ Charles St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.423343",
+            "stop_lon": "-71.074847"
+          },
+          {
+            "stop_order": "3",
+            "stop_id": "45411",
+            "stop_name": "Canal St opp Cambridge Health Alliance",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.420776",
+            "stop_lon": "-71.072383"
+          },
+          {
+            "stop_order": "4",
+            "stop_id": "45330",
+            "stop_name": "Medford St @ Green St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.418036",
+            "stop_lon": "-71.070706"
+          },
+          {
+            "stop_order": "5",
+            "stop_id": "44330",
+            "stop_name": "Medford St @ Brackenbury St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.418162",
+            "stop_lon": "-71.068466"
+          },
+          {
+            "stop_order": "6",
+            "stop_id": "45331",
+            "stop_name": "Medford St @ Main St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.418111",
+            "stop_lon": "-71.065605"
+          },
+          {
+            "stop_order": "7",
+            "stop_id": "5395",
+            "stop_name": "Main St @ Converse Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.416834",
+            "stop_lon": "-71.065392"
+          },
+          {
+            "stop_order": "8",
+            "stop_id": "5047",
+            "stop_name": "Belmont St @ Main St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.415184",
+            "stop_lon": "-71.064193"
+          },
+          {
+            "stop_order": "9",
+            "stop_id": "5048",
+            "stop_name": "Belmont St @ Kinsman St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.415536",
+            "stop_lon": "-71.061698"
+          },
+          {
+            "stop_order": "10",
+            "stop_id": "5049",
+            "stop_name": "Hancock St @ Belmont St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.416244",
+            "stop_lon": "-71.059766"
+          },
+          {
+            "stop_order": "11",
+            "stop_id": "5050",
+            "stop_name": "Hancock St @ Tappan St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.414272",
+            "stop_lon": "-71.056985"
+          },
+          {
+            "stop_order": "12",
+            "stop_id": "5051",
+            "stop_name": "Hancock St @ Dean St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.412923",
+            "stop_lon": "-71.055102"
+          },
+          {
+            "stop_order": "13",
+            "stop_id": "5052",
+            "stop_name": "Hancock St @ Broadway",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.410826",
+            "stop_lon": "-71.052154"
+          },
+          {
+            "stop_order": "14",
+            "stop_id": "5493",
+            "stop_name": "Broadway @ Pleasant St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.409582",
+            "stop_lon": "-71.053252"
+          },
+          {
+            "stop_order": "15",
+            "stop_id": "5494",
+            "stop_name": "Broadway @ Webster St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.408584",
+            "stop_lon": "-71.05417"
+          },
+          {
+            "stop_order": "16",
+            "stop_id": "5495",
+            "stop_name": "Broadway @ Church St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.407971",
+            "stop_lon": "-71.054733"
+          },
+          {
+            "stop_order": "17",
+            "stop_id": "5496",
+            "stop_name": "Broadway @ Norwood St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.406992",
+            "stop_lon": "-71.055681"
+          },
+          {
+            "stop_order": "18",
+            "stop_id": "5559",
+            "stop_name": "Broadway opp Second St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.405543",
+            "stop_lon": "-71.056979"
+          },
+          {
+            "stop_order": "19",
+            "stop_id": "5560",
+            "stop_name": "Broadway @ Gladstone St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.403867",
+            "stop_lon": "-71.058531"
+          },
+          {
+            "stop_order": "20",
+            "stop_id": "5561",
+            "stop_name": "Santilli Circle",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.402829",
+            "stop_lon": "-71.067636"
+          },
+          {
+            "stop_order": "21",
+            "stop_id": "55631",
+            "stop_name": "Gateway Center opp. Texas Roadhouse",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.399817",
+            "stop_lon": "-71.070616"
+          },
+          {
+            "stop_order": "22",
+            "stop_id": "55632",
+            "stop_name": "Gateway Center @ Target",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.398945",
+            "stop_lon": "-71.070054"
+          },
+          {
+            "stop_order": "23",
+            "stop_id": "55633",
+            "stop_name": "Gateway Center on Exit Road",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.401637",
+            "stop_lon": "-71.07021"
+          },
+          {
+            "stop_order": "24",
+            "stop_id": "6569",
+            "stop_name": "Corporation Way",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.404686",
+            "stop_lon": "-71.075506"
+          },
+          {
+            "stop_order": "25",
+            "stop_id": "5271",
+            "stop_name": "Wellington Station Busway",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.402581",
+            "stop_lon": "-71.076089"
+          }
+        ]
+      }
+    ]
+  },
+  "104": {
+    "direction": [
+      {
+        "direction_id": "0",
+        "direction_name": "Outbound",
+        "stop": [
+          {
+            "stop_order": "1",
+            "stop_id": "2874",
+            "stop_name": "Sullivan Station - Upper Busway",
+            "parent_station": "place-sull",
+            "parent_station_name": "Sullivan Square",
+            "stop_lat": "42.383975",
+            "stop_lon": "-71.076994"
+          },
+          {
+            "stop_order": "2",
+            "stop_id": "5504",
+            "stop_name": "Alford St @ Main St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.38602",
+            "stop_lon": "-71.072459"
+          },
+          {
+            "stop_order": "3",
+            "stop_id": "5505",
+            "stop_name": "173 Alford St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.392328",
+            "stop_lon": "-71.068781"
+          },
+          {
+            "stop_order": "4",
+            "stop_id": "5506",
+            "stop_name": "Broadway @ Dexter St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.394293",
+            "stop_lon": "-71.067205"
+          },
+          {
+            "stop_order": "5",
+            "stop_id": "5507",
+            "stop_name": "Broadway @ Thorndike St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.396817",
+            "stop_lon": "-71.064982"
+          },
+          {
+            "stop_order": "6",
+            "stop_id": "5508",
+            "stop_name": "Broadway @ Langdon St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.398888",
+            "stop_lon": "-71.06301"
+          },
+          {
+            "stop_order": "7",
+            "stop_id": "5509",
+            "stop_name": "Broadway St @ Bartlett St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.400396",
+            "stop_lon": "-71.061599"
+          },
+          {
+            "stop_order": "8",
+            "stop_id": "5565",
+            "stop_name": "Broadway @ Gladstone St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.403864",
+            "stop_lon": "-71.058383"
+          },
+          {
+            "stop_order": "9",
+            "stop_id": "5695",
+            "stop_name": "Broadway @ Everett Sq",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.406792",
+            "stop_lon": "-71.055701"
+          },
+          {
+            "stop_order": "10",
+            "stop_id": "5510",
+            "stop_name": "Broadway @ Mansfield St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.407768",
+            "stop_lon": "-71.054757"
+          },
+          {
+            "stop_order": "11",
+            "stop_id": "5511",
+            "stop_name": "Broadway @ Summer St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.408826",
+            "stop_lon": "-71.053787"
+          },
+          {
+            "stop_order": "12",
+            "stop_id": "5513",
+            "stop_name": "Broadway @ High St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.410533",
+            "stop_lon": "-71.052194"
+          },
+          {
+            "stop_order": "13",
+            "stop_id": "5514",
+            "stop_name": "Broadway @ Lexington St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.411919",
+            "stop_lon": "-71.050917"
+          },
+          {
+            "stop_order": "14",
+            "stop_id": "5517",
+            "stop_name": "Broadway @ Reed Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.413414",
+            "stop_lon": "-71.049529"
+          },
+          {
+            "stop_order": "15",
+            "stop_id": "5518",
+            "stop_name": "Broadway @ Ferry St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.414886",
+            "stop_lon": "-71.048315"
+          },
+          {
+            "stop_order": "16",
+            "stop_id": "5355",
+            "stop_name": "381 Ferry St opp Walnut St - Glendale Towers",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.416285",
+            "stop_lon": "-71.048935"
+          },
+          {
+            "stop_order": "17",
+            "stop_id": "5356",
+            "stop_name": "Ferry St @ Shute St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.417225",
+            "stop_lon": "-71.049383"
+          },
+          {
+            "stop_order": "18",
+            "stop_id": "5357",
+            "stop_name": "Ferry St @ Rock Valley Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.418169",
+            "stop_lon": "-71.050716"
+          },
+          {
+            "stop_order": "19",
+            "stop_id": "5358",
+            "stop_name": "Ferry St @ Coolidge St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.419093",
+            "stop_lon": "-71.052711"
+          },
+          {
+            "stop_order": "20",
+            "stop_id": "5359",
+            "stop_name": "Ferry St @ Rich St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.420035",
+            "stop_lon": "-71.054503"
+          },
+          {
+            "stop_order": "21",
+            "stop_id": "5360",
+            "stop_name": "Ferry St @ Harvard St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.420885",
+            "stop_lon": "-71.056916"
+          },
+          {
+            "stop_order": "22",
+            "stop_id": "5361",
+            "stop_name": "Ferry St @ Cross St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.421684",
+            "stop_lon": "-71.058585"
+          },
+          {
+            "stop_order": "23",
+            "stop_id": "5362",
+            "stop_name": "Ferry St @ Magnolia St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.42259",
+            "stop_lon": "-71.060815"
+          },
+          {
+            "stop_order": "24",
+            "stop_id": "5363",
+            "stop_name": "Ferry St @ Holyoke St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.423331",
+            "stop_lon": "-71.063036"
+          },
+          {
+            "stop_order": "25",
+            "stop_id": "5364",
+            "stop_name": "Ferry St @ Eastern Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.424391",
+            "stop_lon": "-71.064547"
+          },
+          {
+            "stop_order": "26",
+            "stop_id": "5365",
+            "stop_name": "Eastern Ave @ Main St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.423385",
+            "stop_lon": "-71.067214"
+          },
+          {
+            "stop_order": "27",
+            "stop_id": "5366",
+            "stop_name": "Main St @ Centre St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.425097",
+            "stop_lon": "-71.06768"
+          },
+          {
+            "stop_order": "28",
+            "stop_id": "5342",
+            "stop_name": "Main St opp Pleasant St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.426166",
+            "stop_lon": "-71.067354"
+          },
+          {
+            "stop_order": "29",
+            "stop_id": "9215",
+            "stop_name": "Main St @ Salem St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.427577",
+            "stop_lon": "-71.066963"
+          },
+          {
+            "stop_order": "30",
+            "stop_id": "19215",
+            "stop_name": "Florence St @ Ramsdell Rd",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.428682",
+            "stop_lon": "-71.067966"
+          },
+          {
+            "stop_order": "31",
+            "stop_id": "5369",
+            "stop_name": "Florence St @ Washington St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.42865",
+            "stop_lon": "-71.071159"
+          },
+          {
+            "stop_order": "32",
+            "stop_id": "53270",
+            "stop_name": "Malden Ctr Sta East Busway Bay",
+            "parent_station": "place-mlmnl",
+            "parent_station_name": "Malden Center",
+            "stop_lat": "42.426632",
+            "stop_lon": "-71.07411"
+          }
+        ]
+      },
+      {
+        "direction_id": "1",
+        "direction_name": "Inbound",
+        "stop": [
+          {
+            "stop_order": "1",
+            "stop_id": "53270",
+            "stop_name": "Malden Ctr Sta East Busway Bay",
+            "parent_station": "place-mlmnl",
+            "parent_station_name": "Malden Center",
+            "stop_lat": "42.426632",
+            "stop_lon": "-71.07411"
+          },
+          {
+            "stop_order": "2",
+            "stop_id": "5289",
+            "stop_name": "Centre St @ Stop & Shop",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.42525",
+            "stop_lon": "-71.070368"
+          },
+          {
+            "stop_order": "3",
+            "stop_id": "5342",
+            "stop_name": "Main St opp Pleasant St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.426166",
+            "stop_lon": "-71.067354"
+          },
+          {
+            "stop_order": "4",
+            "stop_id": "5343",
+            "stop_name": "Ferry St @ Centre St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.425151",
+            "stop_lon": "-71.06525"
+          },
+          {
+            "stop_order": "5",
+            "stop_id": "5344",
+            "stop_name": "Ferry St @ Eastern Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.424507",
+            "stop_lon": "-71.064776"
+          },
+          {
+            "stop_order": "6",
+            "stop_id": "5345",
+            "stop_name": "Ferry St opp Clayton St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.422736",
+            "stop_lon": "-71.061542"
+          },
+          {
+            "stop_order": "7",
+            "stop_id": "5347",
+            "stop_name": "Ferry St @ Cross St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.421724",
+            "stop_lon": "-71.058851"
+          },
+          {
+            "stop_order": "8",
+            "stop_id": "5348",
+            "stop_name": "Ferry St @ Winthrop St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.420835",
+            "stop_lon": "-71.057054"
+          },
+          {
+            "stop_order": "9",
+            "stop_id": "5349",
+            "stop_name": "Ferry St @ Belmont St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.420114",
+            "stop_lon": "-71.054897"
+          },
+          {
+            "stop_order": "10",
+            "stop_id": "5350",
+            "stop_name": "Ferry St @ Bennett St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.419133",
+            "stop_lon": "-71.053036"
+          },
+          {
+            "stop_order": "11",
+            "stop_id": "5351",
+            "stop_name": "Ferry St @ Central Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.418173",
+            "stop_lon": "-71.050995"
+          },
+          {
+            "stop_order": "12",
+            "stop_id": "5352",
+            "stop_name": "Ferry St @ Glendale St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.417127",
+            "stop_lon": "-71.049458"
+          },
+          {
+            "stop_order": "13",
+            "stop_id": "5353",
+            "stop_name": "Ferry St @ Walnut St - Glendale Towers",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.416209",
+            "stop_lon": "-71.049046"
+          },
+          {
+            "stop_order": "14",
+            "stop_id": "5354",
+            "stop_name": "Ferry St @ Broadway",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.415073",
+            "stop_lon": "-71.048403"
+          },
+          {
+            "stop_order": "15",
+            "stop_id": "5489",
+            "stop_name": "Broadway @ Waverly Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.413847",
+            "stop_lon": "-71.049348"
+          },
+          {
+            "stop_order": "16",
+            "stop_id": "5490",
+            "stop_name": "Broadway @ Raymond St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.413306",
+            "stop_lon": "-71.049838"
+          },
+          {
+            "stop_order": "17",
+            "stop_id": "5492",
+            "stop_name": "Broadway @ Hancock St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.410897",
+            "stop_lon": "-71.052009"
+          },
+          {
+            "stop_order": "18",
+            "stop_id": "5493",
+            "stop_name": "Broadway @ Pleasant St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.409582",
+            "stop_lon": "-71.053252"
+          },
+          {
+            "stop_order": "19",
+            "stop_id": "5494",
+            "stop_name": "Broadway @ Webster St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.408584",
+            "stop_lon": "-71.05417"
+          },
+          {
+            "stop_order": "20",
+            "stop_id": "5495",
+            "stop_name": "Broadway @ Church St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.407971",
+            "stop_lon": "-71.054733"
+          },
+          {
+            "stop_order": "21",
+            "stop_id": "5496",
+            "stop_name": "Broadway @ Norwood St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.406992",
+            "stop_lon": "-71.055681"
+          },
+          {
+            "stop_order": "22",
+            "stop_id": "5559",
+            "stop_name": "Broadway opp Second St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.405543",
+            "stop_lon": "-71.056979"
+          },
+          {
+            "stop_order": "23",
+            "stop_id": "5560",
+            "stop_name": "Broadway @ Gladstone St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.403867",
+            "stop_lon": "-71.058531"
+          },
+          {
+            "stop_order": "24",
+            "stop_id": "5497",
+            "stop_name": "Broadway @ Bowdoin St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.399834",
+            "stop_lon": "-71.062332"
+          },
+          {
+            "stop_order": "25",
+            "stop_id": "5498",
+            "stop_name": "Broadway opp Beacham St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.398286",
+            "stop_lon": "-71.063754"
+          },
+          {
+            "stop_order": "26",
+            "stop_id": "5499",
+            "stop_name": "Broadway opp Thorndike St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.39696",
+            "stop_lon": "-71.065003"
+          },
+          {
+            "stop_order": "27",
+            "stop_id": "5500",
+            "stop_name": "Broadway @ Horizon Way",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.395007",
+            "stop_lon": "-71.06673"
+          },
+          {
+            "stop_order": "28",
+            "stop_id": "5501",
+            "stop_name": "Opp 173 Alford St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.39242",
+            "stop_lon": "-71.069107"
+          },
+          {
+            "stop_order": "29",
+            "stop_id": "55011",
+            "stop_name": "Alford St @ MWRA Pump Station",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.391021",
+            "stop_lon": "-71.070228"
+          },
+          {
+            "stop_order": "30",
+            "stop_id": "55012",
+            "stop_name": "Alford St @ MBTA Charlestown Garage",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.386901",
+            "stop_lon": "-71.072882"
+          },
+          {
+            "stop_order": "31",
+            "stop_id": "5502",
+            "stop_name": "Alford St @ West St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.38579",
+            "stop_lon": "-71.07345"
+          },
+          {
+            "stop_order": "32",
+            "stop_id": "2874",
+            "stop_name": "Sullivan Station - Upper Busway",
+            "parent_station": "place-sull",
+            "parent_station_name": "Sullivan Square",
+            "stop_lat": "42.383975",
+            "stop_lon": "-71.076994"
+          }
+        ]
+      }
+    ]
+  },
+  "109": {
+    "direction": [
+      {
+        "direction_id": "0",
+        "direction_name": "Outbound",
+        "stop": [
+          {
+            "stop_order": "1",
+            "stop_id": "2874",
+            "stop_name": "Sullivan Station - Upper Busway",
+            "parent_station": "place-sull",
+            "parent_station_name": "Sullivan Square",
+            "stop_lat": "42.383975",
+            "stop_lon": "-71.076994"
+          },
+          {
+            "stop_order": "2",
+            "stop_id": "5504",
+            "stop_name": "Alford St @ Main St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.38602",
+            "stop_lon": "-71.072459"
+          },
+          {
+            "stop_order": "3",
+            "stop_id": "5505",
+            "stop_name": "173 Alford St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.392328",
+            "stop_lon": "-71.068781"
+          },
+          {
+            "stop_order": "4",
+            "stop_id": "5506",
+            "stop_name": "Broadway @ Dexter St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.394293",
+            "stop_lon": "-71.067205"
+          },
+          {
+            "stop_order": "5",
+            "stop_id": "5507",
+            "stop_name": "Broadway @ Thorndike St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.396817",
+            "stop_lon": "-71.064982"
+          },
+          {
+            "stop_order": "6",
+            "stop_id": "5508",
+            "stop_name": "Broadway @ Langdon St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.398888",
+            "stop_lon": "-71.06301"
+          },
+          {
+            "stop_order": "7",
+            "stop_id": "5509",
+            "stop_name": "Broadway St @ Bartlett St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.400396",
+            "stop_lon": "-71.061599"
+          },
+          {
+            "stop_order": "8",
+            "stop_id": "5565",
+            "stop_name": "Broadway @ Gladstone St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.403864",
+            "stop_lon": "-71.058383"
+          },
+          {
+            "stop_order": "9",
+            "stop_id": "5695",
+            "stop_name": "Broadway @ Everett Sq",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.406792",
+            "stop_lon": "-71.055701"
+          },
+          {
+            "stop_order": "10",
+            "stop_id": "5510",
+            "stop_name": "Broadway @ Mansfield St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.407768",
+            "stop_lon": "-71.054757"
+          },
+          {
+            "stop_order": "11",
+            "stop_id": "5511",
+            "stop_name": "Broadway @ Summer St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.408826",
+            "stop_lon": "-71.053787"
+          },
+          {
+            "stop_order": "12",
+            "stop_id": "5513",
+            "stop_name": "Broadway @ High St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.410533",
+            "stop_lon": "-71.052194"
+          },
+          {
+            "stop_order": "13",
+            "stop_id": "5514",
+            "stop_name": "Broadway @ Lexington St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.411919",
+            "stop_lon": "-71.050917"
+          },
+          {
+            "stop_order": "14",
+            "stop_id": "5517",
+            "stop_name": "Broadway @ Reed Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.413414",
+            "stop_lon": "-71.049529"
+          },
+          {
+            "stop_order": "15",
+            "stop_id": "5518",
+            "stop_name": "Broadway @ Ferry St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.414886",
+            "stop_lon": "-71.048315"
+          },
+          {
+            "stop_order": "16",
+            "stop_id": "5519",
+            "stop_name": "Broadway @ Coburn Terr",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.416054",
+            "stop_lon": "-71.047355"
+          },
+          {
+            "stop_order": "17",
+            "stop_id": "5515",
+            "stop_name": "Broadway @ Gledhill St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.416817",
+            "stop_lon": "-71.046701"
+          },
+          {
+            "stop_order": "18",
+            "stop_id": "5520",
+            "stop_name": "Broadway @ Summit Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.418193",
+            "stop_lon": "-71.045566"
+          },
+          {
+            "stop_order": "19",
+            "stop_id": "5521",
+            "stop_name": "Broadway @ Lynn St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.419691",
+            "stop_lon": "-71.044255"
+          },
+          {
+            "stop_order": "20",
+            "stop_id": "5522",
+            "stop_name": "Broadway @ Shute St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.42182",
+            "stop_lon": "-71.043299"
+          },
+          {
+            "stop_order": "21",
+            "stop_id": "5523",
+            "stop_name": "Broadway @ Estes St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.423102",
+            "stop_lon": "-71.042819"
+          },
+          {
+            "stop_order": "22",
+            "stop_id": "5524",
+            "stop_name": "53 Broadway",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.424677",
+            "stop_lon": "-71.04223"
+          },
+          {
+            "stop_order": "23",
+            "stop_id": "5525",
+            "stop_name": "Broadway opp Sheafe St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.427609",
+            "stop_lon": "-71.041124"
+          },
+          {
+            "stop_order": "24",
+            "stop_id": "5526",
+            "stop_name": "170 Broadway",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.429094",
+            "stop_lon": "-71.040565"
+          },
+          {
+            "stop_order": "25",
+            "stop_id": "5527",
+            "stop_name": "Eastern Ave @ Broadway",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.430214",
+            "stop_lon": "-71.040002"
+          },
+          {
+            "stop_order": "26",
+            "stop_id": "5528",
+            "stop_name": "Opp 1236 Eastern Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.430523",
+            "stop_lon": "-71.037609"
+          },
+          {
+            "stop_order": "27",
+            "stop_id": "5529",
+            "stop_name": "Eastern Ave @ Prentiss St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.430941",
+            "stop_lon": "-71.032539"
+          },
+          {
+            "stop_order": "28",
+            "stop_id": "5530",
+            "stop_name": "Eastern Ave @ Bellvale St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.431047",
+            "stop_lon": "-71.030897"
+          },
+          {
+            "stop_order": "29",
+            "stop_id": "5531",
+            "stop_name": "Eastern Ave @ Cleveland St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.4312",
+            "stop_lon": "-71.028744"
+          },
+          {
+            "stop_order": "30",
+            "stop_id": "5532",
+            "stop_name": "Eastern Ave @ Lynn St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.431512",
+            "stop_lon": "-71.026548"
+          },
+          {
+            "stop_order": "31",
+            "stop_id": "7413",
+            "stop_name": "Beach St @ Hancock Rd",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.431721",
+            "stop_lon": "-71.024606"
+          },
+          {
+            "stop_order": "32",
+            "stop_id": "7417",
+            "stop_name": "Wesley St @ Lynn St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.432858",
+            "stop_lon": "-71.024087"
+          },
+          {
+            "stop_order": "33",
+            "stop_id": "7412",
+            "stop_name": "Lynn St @ Beach St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.432182",
+            "stop_lon": "-71.025284"
+          }
+        ]
+      },
+      {
+        "direction_id": "1",
+        "direction_name": "Inbound",
+        "stop": [
+          {
+            "stop_order": "1",
+            "stop_id": "7412",
+            "stop_name": "Lynn St @ Beach St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.432182",
+            "stop_lon": "-71.025284"
+          },
+          {
+            "stop_order": "2",
+            "stop_id": "5473",
+            "stop_name": "Eastern Ave @ Lynn St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.431624",
+            "stop_lon": "-71.026422"
+          },
+          {
+            "stop_order": "3",
+            "stop_id": "5474",
+            "stop_name": "Eastern Ave @ Clapp St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.431275",
+            "stop_lon": "-71.028973"
+          },
+          {
+            "stop_order": "4",
+            "stop_id": "5475",
+            "stop_name": "1388 Eastern Ave opp Bellvale St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.431136",
+            "stop_lon": "-71.030993"
+          },
+          {
+            "stop_order": "5",
+            "stop_id": "5476",
+            "stop_name": "1332 Eastern Ave opp Prentiss St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.43103",
+            "stop_lon": "-71.032624"
+          },
+          {
+            "stop_order": "6",
+            "stop_id": "5477",
+            "stop_name": "1236 Eastern Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.430616",
+            "stop_lon": "-71.037631"
+          },
+          {
+            "stop_order": "7",
+            "stop_id": "5478",
+            "stop_name": "Broadway @ Eastern Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.43013",
+            "stop_lon": "-71.040331"
+          },
+          {
+            "stop_order": "8",
+            "stop_id": "5480",
+            "stop_name": "Broadway @ Sheafe St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.42781",
+            "stop_lon": "-71.041174"
+          },
+          {
+            "stop_order": "9",
+            "stop_id": "5481",
+            "stop_name": "Broadway @ Broadway Plaza",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.424878",
+            "stop_lon": "-71.042284"
+          },
+          {
+            "stop_order": "10",
+            "stop_id": "5482",
+            "stop_name": "990 Broadway opp Grover St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.423469",
+            "stop_lon": "-71.042806"
+          },
+          {
+            "stop_order": "11",
+            "stop_id": "5483",
+            "stop_name": "Broadway @ Shute St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.421784",
+            "stop_lon": "-71.043436"
+          },
+          {
+            "stop_order": "12",
+            "stop_id": "5484",
+            "stop_name": "Broadway @ Cameron St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.420212",
+            "stop_lon": "-71.044062"
+          },
+          {
+            "stop_order": "13",
+            "stop_id": "5485",
+            "stop_name": "Broadway @ Kenwood Rd",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.418584",
+            "stop_lon": "-71.045367"
+          },
+          {
+            "stop_order": "14",
+            "stop_id": "5486",
+            "stop_name": "Broadway @ Edith Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.417359",
+            "stop_lon": "-71.046423"
+          },
+          {
+            "stop_order": "15",
+            "stop_id": "5487",
+            "stop_name": "Broadway @ Marie Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.41626",
+            "stop_lon": "-71.047339"
+          },
+          {
+            "stop_order": "16",
+            "stop_id": "5488",
+            "stop_name": "Broadway @ Ferry St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.415234",
+            "stop_lon": "-71.048187"
+          },
+          {
+            "stop_order": "17",
+            "stop_id": "5489",
+            "stop_name": "Broadway @ Waverly Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.413847",
+            "stop_lon": "-71.049348"
+          },
+          {
+            "stop_order": "18",
+            "stop_id": "5490",
+            "stop_name": "Broadway @ Raymond St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.413306",
+            "stop_lon": "-71.049838"
+          },
+          {
+            "stop_order": "19",
+            "stop_id": "5492",
+            "stop_name": "Broadway @ Hancock St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.410897",
+            "stop_lon": "-71.052009"
+          },
+          {
+            "stop_order": "19",
+            "stop_id": "2842",
+            "stop_name": "Cambridge St @ Maffa Way",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.383791",
+            "stop_lon": "-71.074906"
+          },
+          {
+            "stop_order": "20",
+            "stop_id": "5493",
+            "stop_name": "Broadway @ Pleasant St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.409582",
+            "stop_lon": "-71.053252"
+          },
+          {
+            "stop_order": "21",
+            "stop_id": "5494",
+            "stop_name": "Broadway @ Webster St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.408584",
+            "stop_lon": "-71.05417"
+          },
+          {
+            "stop_order": "22",
+            "stop_id": "5495",
+            "stop_name": "Broadway @ Church St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.407971",
+            "stop_lon": "-71.054733"
+          },
+          {
+            "stop_order": "23",
+            "stop_id": "5496",
+            "stop_name": "Broadway @ Norwood St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.406992",
+            "stop_lon": "-71.055681"
+          },
+          {
+            "stop_order": "24",
+            "stop_id": "5559",
+            "stop_name": "Broadway opp Second St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.405543",
+            "stop_lon": "-71.056979"
+          },
+          {
+            "stop_order": "25",
+            "stop_id": "5560",
+            "stop_name": "Broadway @ Gladstone St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.403867",
+            "stop_lon": "-71.058531"
+          },
+          {
+            "stop_order": "26",
+            "stop_id": "5497",
+            "stop_name": "Broadway @ Bowdoin St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.399834",
+            "stop_lon": "-71.062332"
+          },
+          {
+            "stop_order": "27",
+            "stop_id": "5498",
+            "stop_name": "Broadway opp Beacham St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.398286",
+            "stop_lon": "-71.063754"
+          },
+          {
+            "stop_order": "28",
+            "stop_id": "5499",
+            "stop_name": "Broadway opp Thorndike St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.39696",
+            "stop_lon": "-71.065003"
+          },
+          {
+            "stop_order": "29",
+            "stop_id": "5500",
+            "stop_name": "Broadway @ Horizon Way",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.395007",
+            "stop_lon": "-71.06673"
+          },
+          {
+            "stop_order": "30",
+            "stop_id": "5501",
+            "stop_name": "Opp 173 Alford St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.39242",
+            "stop_lon": "-71.069107"
+          },
+          {
+            "stop_order": "31",
+            "stop_id": "55011",
+            "stop_name": "Alford St @ MWRA Pump Station",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.391021",
+            "stop_lon": "-71.070228"
+          },
+          {
+            "stop_order": "32",
+            "stop_id": "55012",
+            "stop_name": "Alford St @ MBTA Charlestown Garage",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.386901",
+            "stop_lon": "-71.072882"
+          },
+          {
+            "stop_order": "33",
+            "stop_id": "5502",
+            "stop_name": "Alford St @ West St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.38579",
+            "stop_lon": "-71.07345"
+          },
+          {
+            "stop_order": "34",
+            "stop_id": "2874",
+            "stop_name": "Sullivan Station - Upper Busway",
+            "parent_station": "place-sull",
+            "parent_station_name": "Sullivan Square",
+            "stop_lat": "42.383975",
+            "stop_lon": "-71.076994"
+          }
+        ]
+      }
+    ]
+  },
+  "110": {
+    "direction": [
+      {
+        "direction_id": "0",
+        "direction_name": "Outbound",
+        "stop": [
+          {
+            "stop_order": "1",
+            "stop_id": "5271",
+            "stop_name": "Wellington Station Busway",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.402581",
+            "stop_lon": "-71.076089"
+          },
+          {
+            "stop_order": "2",
+            "stop_id": "5563",
+            "stop_name": "Santilli Circle",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.40268",
+            "stop_lon": "-71.06754"
+          },
+          {
+            "stop_order": "3",
+            "stop_id": "5565",
+            "stop_name": "Broadway @ Gladstone St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.403864",
+            "stop_lon": "-71.058383"
+          },
+          {
+            "stop_order": "4",
+            "stop_id": "5695",
+            "stop_name": "Broadway @ Everett Sq",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.406792",
+            "stop_lon": "-71.055701"
+          },
+          {
+            "stop_order": "5",
+            "stop_id": "5637",
+            "stop_name": "Chelsea St @ Victoria St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.4064",
+            "stop_lon": "-71.054381"
+          },
+          {
+            "stop_order": "6",
+            "stop_id": "5638",
+            "stop_name": "Chelsea St @ Spring St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.40517",
+            "stop_lon": "-71.051943"
+          },
+          {
+            "stop_order": "7",
+            "stop_id": "5639",
+            "stop_name": "137 Chelsea St opp Mead St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.404456",
+            "stop_lon": "-71.049897"
+          },
+          {
+            "stop_order": "8",
+            "stop_id": "15566",
+            "stop_name": "19 Ferry St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.404575",
+            "stop_lon": "-71.047885"
+          },
+          {
+            "stop_order": "9",
+            "stop_id": "5566",
+            "stop_name": "Ferry St @ Union St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.406029",
+            "stop_lon": "-71.047212"
+          },
+          {
+            "stop_order": "10",
+            "stop_id": "5567",
+            "stop_name": "Ferry St @ Nichols St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.408292",
+            "stop_lon": "-71.046166"
+          },
+          {
+            "stop_order": "11",
+            "stop_id": "5568",
+            "stop_name": "Ferry St @ Cherry St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.409815",
+            "stop_lon": "-71.045644"
+          },
+          {
+            "stop_order": "12",
+            "stop_id": "5569",
+            "stop_name": "Ferry St @ Clarence St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.41173",
+            "stop_lon": "-71.04559"
+          },
+          {
+            "stop_order": "13",
+            "stop_id": "5570",
+            "stop_name": "Elm St @ Glendale Pk",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.412739",
+            "stop_lon": "-71.04483"
+          },
+          {
+            "stop_order": "14",
+            "stop_id": "5571",
+            "stop_name": "Elm St @ Woodlawn St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.413296",
+            "stop_lon": "-71.042416"
+          },
+          {
+            "stop_order": "15",
+            "stop_id": "5572",
+            "stop_name": "Elm St @ Jefferson Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.413425",
+            "stop_lon": "-71.03986"
+          },
+          {
+            "stop_order": "16",
+            "stop_id": "5574",
+            "stop_name": "Elm St @ Englewood Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.414014",
+            "stop_lon": "-71.036738"
+          },
+          {
+            "stop_order": "17",
+            "stop_id": "5575",
+            "stop_name": "Elm St @ Duncan Rd",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.414742",
+            "stop_lon": "-71.035596"
+          },
+          {
+            "stop_order": "18",
+            "stop_id": "5576",
+            "stop_name": "289 Elm St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.415126",
+            "stop_lon": "-71.0348"
+          },
+          {
+            "stop_order": "19",
+            "stop_id": "5577",
+            "stop_name": "Elm St @ Haskell Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.415589",
+            "stop_lon": "-71.033108"
+          },
+          {
+            "stop_order": "20",
+            "stop_id": "5578",
+            "stop_name": "682 Park Ave opp McCleavey St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.414911",
+            "stop_lon": "-71.03058"
+          },
+          {
+            "stop_order": "21",
+            "stop_id": "5579",
+            "stop_name": "618 Park Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.414362",
+            "stop_lon": "-71.028618"
+          },
+          {
+            "stop_order": "22",
+            "stop_id": "5580",
+            "stop_name": "Park Ave @ Dale St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.41351",
+            "stop_lon": "-71.025517"
+          },
+          {
+            "stop_order": "23",
+            "stop_id": "5581",
+            "stop_name": "Park Ave @ S Irving St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.412995",
+            "stop_lon": "-71.023644"
+          },
+          {
+            "stop_order": "24",
+            "stop_id": "45581",
+            "stop_name": "Park Ave @ S Genesee St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.412554",
+            "stop_lon": "-71.022036"
+          },
+          {
+            "stop_order": "25",
+            "stop_id": "5582",
+            "stop_name": "290 Park Ave opp Essex St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.412114",
+            "stop_lon": "-71.020429"
+          },
+          {
+            "stop_order": "26",
+            "stop_id": "5583",
+            "stop_name": "Park Ave @ S Cambridge St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.411643",
+            "stop_lon": "-71.018718"
+          },
+          {
+            "stop_order": "27",
+            "stop_id": "5585",
+            "stop_name": "40 Park Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.410236",
+            "stop_lon": "-71.013618"
+          },
+          {
+            "stop_order": "28",
+            "stop_id": "5586",
+            "stop_name": "Broadway @ Park Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.410663",
+            "stop_lon": "-71.012304"
+          },
+          {
+            "stop_order": "29",
+            "stop_id": "5790",
+            "stop_name": "49 Central Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.409605",
+            "stop_lon": "-71.010465"
+          },
+          {
+            "stop_order": "30",
+            "stop_id": "5792",
+            "stop_name": "Beach St @ Eustis St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.40923",
+            "stop_lon": "-71.006776"
+          },
+          {
+            "stop_order": "31",
+            "stop_id": "5794",
+            "stop_name": "Beach St @ Harris St - Bell Circle",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.408994",
+            "stop_lon": "-71.003578"
+          },
+          {
+            "stop_order": "32",
+            "stop_id": "4717",
+            "stop_name": "Beach St @ Shirley Ave - Bell Circle",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.409853",
+            "stop_lon": "-70.999403"
+          },
+          {
+            "stop_order": "33",
+            "stop_id": "5797",
+            "stop_name": "Beach St @ Walnut Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.409189",
+            "stop_lon": "-70.99676"
+          },
+          {
+            "stop_order": "34",
+            "stop_id": "5798",
+            "stop_name": "Beach St @ N Shore Rd",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.408517",
+            "stop_lon": "-70.993668"
+          },
+          {
+            "stop_order": "35",
+            "stop_id": "15795",
+            "stop_name": "Wonderland West Busway",
+            "parent_station": "place-wondl",
+            "parent_station_name": "Wonderland",
+            "stop_lat": "42.41342",
+            "stop_lon": "-70.991648"
+          }
+        ]
+      },
+      {
+        "direction_id": "1",
+        "direction_name": "Inbound",
+        "stop": [
+          {
+            "stop_order": "1",
+            "stop_id": "15795",
+            "stop_name": "Wonderland West Busway",
+            "parent_station": "place-wondl",
+            "parent_station_name": "Wonderland",
+            "stop_lat": "42.41342",
+            "stop_lon": "-70.991648"
+          },
+          {
+            "stop_order": "1",
+            "stop_id": "5586",
+            "stop_name": "Broadway @ Park Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.410663",
+            "stop_lon": "-71.012304"
+          },
+          {
+            "stop_order": "2",
+            "stop_id": "15782",
+            "stop_name": "opp 1456 North Shore Rd",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.409716",
+            "stop_lon": "-70.993301"
+          },
+          {
+            "stop_order": "3",
+            "stop_id": "5783",
+            "stop_name": "Beach St opp Nahant Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.408817",
+            "stop_lon": "-70.99548"
+          },
+          {
+            "stop_order": "4",
+            "stop_id": "5784",
+            "stop_name": "Beach St @ VFW Pkwy",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.410007",
+            "stop_lon": "-70.998887"
+          },
+          {
+            "stop_order": "5",
+            "stop_id": "4733",
+            "stop_name": "Beach St @ Upham St - Bell Circle",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.409697",
+            "stop_lon": "-71.000379"
+          },
+          {
+            "stop_order": "6",
+            "stop_id": "5786",
+            "stop_name": "Beach St @ Harris St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.409085",
+            "stop_lon": "-71.003659"
+          },
+          {
+            "stop_order": "7",
+            "stop_id": "15787",
+            "stop_name": "Beach St @ Cary Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.409326",
+            "stop_lon": "-71.006801"
+          },
+          {
+            "stop_order": "8",
+            "stop_id": "5788",
+            "stop_name": "Beach St @ School St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.408978",
+            "stop_lon": "-71.008839"
+          },
+          {
+            "stop_order": "9",
+            "stop_id": "5789",
+            "stop_name": "Central Ave @ Broadway",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.410303",
+            "stop_lon": "-71.011762"
+          },
+          {
+            "stop_order": "10",
+            "stop_id": "5537",
+            "stop_name": "Park Ave @ Busway Entrance",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.410583",
+            "stop_lon": "-71.014567"
+          },
+          {
+            "stop_order": "11",
+            "stop_id": "5538",
+            "stop_name": "Park Ave @ Allston St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.411196",
+            "stop_lon": "-71.016755"
+          },
+          {
+            "stop_order": "12",
+            "stop_id": "5539",
+            "stop_name": "Park Ave @ Cambridge St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.411667",
+            "stop_lon": "-71.018443"
+          },
+          {
+            "stop_order": "13",
+            "stop_id": "5540",
+            "stop_name": "Park Ave @ Essex St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.412138",
+            "stop_lon": "-71.020154"
+          },
+          {
+            "stop_order": "14",
+            "stop_id": "5541",
+            "stop_name": "Park Ave @ Genesee St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.412662",
+            "stop_lon": "-71.022072"
+          },
+          {
+            "stop_order": "15",
+            "stop_id": "5542",
+            "stop_name": "Park Ave @ Irving St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.413015",
+            "stop_lon": "-71.023373"
+          },
+          {
+            "stop_order": "16",
+            "stop_id": "5543",
+            "stop_name": "Park Ave @ Lambert St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.41394",
+            "stop_lon": "-71.026695"
+          },
+          {
+            "stop_order": "17",
+            "stop_id": "5544",
+            "stop_name": "633 Park Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.414531",
+            "stop_lon": "-71.028857"
+          },
+          {
+            "stop_order": "18",
+            "stop_id": "5546",
+            "stop_name": "Park Ave @ McLeavey St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.415021",
+            "stop_lon": "-71.030613"
+          },
+          {
+            "stop_order": "19",
+            "stop_id": "5547",
+            "stop_name": "Elm St opp Haskell Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.415684",
+            "stop_lon": "-71.033138"
+          },
+          {
+            "stop_order": "20",
+            "stop_id": "5549",
+            "stop_name": "Elm St @ Woodlawn Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.415431",
+            "stop_lon": "-71.034234"
+          },
+          {
+            "stop_order": "21",
+            "stop_id": "5550",
+            "stop_name": "Elm St @ Adams Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.414001",
+            "stop_lon": "-71.037038"
+          },
+          {
+            "stop_order": "22",
+            "stop_id": "5552",
+            "stop_name": "Elm St @ Jefferson Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.413554",
+            "stop_lon": "-71.039644"
+          },
+          {
+            "stop_order": "23",
+            "stop_id": "5553",
+            "stop_name": "Elm St opp Woodlawn St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.413336",
+            "stop_lon": "-71.042149"
+          },
+          {
+            "stop_order": "24",
+            "stop_id": "5554",
+            "stop_name": "Elm St @ Ferry St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.412499",
+            "stop_lon": "-71.045607"
+          },
+          {
+            "stop_order": "25",
+            "stop_id": "5555",
+            "stop_name": "Ferry St @ Chestnut St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.409958",
+            "stop_lon": "-71.045743"
+          },
+          {
+            "stop_order": "26",
+            "stop_id": "5556",
+            "stop_name": "Ferry St @ Arlington St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.408492",
+            "stop_lon": "-71.046213"
+          },
+          {
+            "stop_order": "27",
+            "stop_id": "5557",
+            "stop_name": "Ferry St @ Orange St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.405838",
+            "stop_lon": "-71.047435"
+          },
+          {
+            "stop_order": "28",
+            "stop_id": "5558",
+            "stop_name": "Ferry St @ Chelsea St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.404184",
+            "stop_lon": "-71.048217"
+          },
+          {
+            "stop_order": "29",
+            "stop_id": "5691",
+            "stop_name": "Chelsea St @ Mead St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.404564",
+            "stop_lon": "-71.049929"
+          },
+          {
+            "stop_order": "30",
+            "stop_id": "5692",
+            "stop_name": "Chelsea St @ Edmester Ct",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.405279",
+            "stop_lon": "-71.051946"
+          },
+          {
+            "stop_order": "31",
+            "stop_id": "5693",
+            "stop_name": "Chelsea St @ Plumer St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.40601",
+            "stop_lon": "-71.053488"
+          },
+          {
+            "stop_order": "32",
+            "stop_id": "5496",
+            "stop_name": "Broadway @ Norwood St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.406992",
+            "stop_lon": "-71.055681"
+          },
+          {
+            "stop_order": "33",
+            "stop_id": "5559",
+            "stop_name": "Broadway opp Second St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.405543",
+            "stop_lon": "-71.056979"
+          },
+          {
+            "stop_order": "34",
+            "stop_id": "5560",
+            "stop_name": "Broadway @ Gladstone St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.403867",
+            "stop_lon": "-71.058531"
+          },
+          {
+            "stop_order": "35",
+            "stop_id": "5561",
+            "stop_name": "Santilli Circle",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.402829",
+            "stop_lon": "-71.067636"
+          },
+          {
+            "stop_order": "36",
+            "stop_id": "6569",
+            "stop_name": "Corporation Way",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.404686",
+            "stop_lon": "-71.075506"
+          },
+          {
+            "stop_order": "37",
+            "stop_id": "5271",
+            "stop_name": "Wellington Station Busway",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.402581",
+            "stop_lon": "-71.076089"
+          }
+        ]
+      }
+    ]
+  },
+  "112": {
+    "direction": [
+      {
+        "direction_id": "0",
+        "direction_name": "Outbound",
+        "stop": [
+          {
+            "stop_order": "1",
+            "stop_id": "5666",
+            "stop_name": "Wood Island Station Busway",
+            "parent_station": "place-wimnl",
+            "parent_station_name": "Wood Island",
+            "stop_lat": "42.3796403",
+            "stop_lon": "-71.02286539"
+          },
+          {
+            "stop_order": "2",
+            "stop_id": "5848",
+            "stop_name": "Bennington St @ Neptune Rd",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.380107",
+            "stop_lon": "-71.025378"
+          },
+          {
+            "stop_order": "3",
+            "stop_id": "5849",
+            "stop_name": "Bennington St @ Chelsea St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.379402",
+            "stop_lon": "-71.027455"
+          },
+          {
+            "stop_order": "4",
+            "stop_id": "5846",
+            "stop_name": "467 Chelsea St - Eagle Square",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.381366",
+            "stop_lon": "-71.025342"
+          },
+          {
+            "stop_order": "5",
+            "stop_id": "5897",
+            "stop_name": "Chelsea St @ Curtis St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.384015",
+            "stop_lon": "-71.022529"
+          },
+          {
+            "stop_order": "6",
+            "stop_id": "5673",
+            "stop_name": "Central Ave @ Chelsea Garage",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.387788",
+            "stop_lon": "-71.023822"
+          },
+          {
+            "stop_order": "7",
+            "stop_id": "5674",
+            "stop_name": "Central Ave @ Willow St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.388369",
+            "stop_lon": "-71.026857"
+          },
+          {
+            "stop_order": "8",
+            "stop_id": "5675",
+            "stop_name": "Central Ave @ Highland St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.389033",
+            "stop_lon": "-71.030254"
+          },
+          {
+            "stop_order": "9",
+            "stop_id": "5676",
+            "stop_name": "Central Ave @ Lynn St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.38954",
+            "stop_lon": "-71.032138"
+          },
+          {
+            "stop_order": "10",
+            "stop_id": "5678",
+            "stop_name": "Central Ave @ Shawmut St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.390242",
+            "stop_lon": "-71.034676"
+          },
+          {
+            "stop_order": "11",
+            "stop_id": "5615",
+            "stop_name": "Hawthorne St @ Broadway",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.392517",
+            "stop_lon": "-71.03413"
+          },
+          {
+            "stop_order": "12",
+            "stop_id": "5617",
+            "stop_name": "Broadway @ Shurtleff St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.393366",
+            "stop_lon": "-71.03297"
+          },
+          {
+            "stop_order": "13",
+            "stop_id": "5605",
+            "stop_name": "Washington Ave @ Broadway",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.392841",
+            "stop_lon": "-71.034136"
+          },
+          {
+            "stop_order": "14",
+            "stop_id": "5606",
+            "stop_name": "Broadway @ Fourth St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.391797",
+            "stop_lon": "-71.035912"
+          },
+          {
+            "stop_order": "15",
+            "stop_id": "5607",
+            "stop_name": "Third St @ Chestnut St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.391656",
+            "stop_lon": "-71.038396"
+          },
+          {
+            "stop_order": "16",
+            "stop_id": "5682",
+            "stop_name": "Everett Ave @ Arlington St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.393412",
+            "stop_lon": "-71.038999"
+          },
+          {
+            "stop_order": "17",
+            "stop_id": "5648",
+            "stop_name": "Spruce St @ Everett Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.395052",
+            "stop_lon": "-71.039983"
+          },
+          {
+            "stop_order": "18",
+            "stop_id": "15045",
+            "stop_name": "Spruce St @ Second St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.393744",
+            "stop_lon": "-71.042282"
+          },
+          {
+            "stop_order": "19",
+            "stop_id": "15046",
+            "stop_name": "Spruce St @ Williams St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.392509",
+            "stop_lon": "-71.044421"
+          },
+          {
+            "stop_order": "20",
+            "stop_id": "15047",
+            "stop_name": "Captains Row @ Commandants Way",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.391747",
+            "stop_lon": "-71.047492"
+          },
+          {
+            "stop_order": "21",
+            "stop_id": "15048",
+            "stop_name": "150 Captains Row",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.390859",
+            "stop_lon": "-71.045684"
+          },
+          {
+            "stop_order": "22",
+            "stop_id": "15049",
+            "stop_name": "Captains Row @ Boatswains Way",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.388457",
+            "stop_lon": "-71.046016"
+          },
+          {
+            "stop_order": "23",
+            "stop_id": "15050",
+            "stop_name": "5 Admirals Way",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.388937",
+            "stop_lon": "-71.046742"
+          },
+          {
+            "stop_order": "24",
+            "stop_id": "25051",
+            "stop_name": "Captains Row @ Commandants Way",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.391829",
+            "stop_lon": "-71.047391"
+          },
+          {
+            "stop_order": "25",
+            "stop_id": "15052",
+            "stop_name": "Commandants Way @ Williams St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.39232",
+            "stop_lon": "-71.044534"
+          },
+          {
+            "stop_order": "26",
+            "stop_id": "15053",
+            "stop_name": "45 Spruce St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.393645",
+            "stop_lon": "-71.042218"
+          },
+          {
+            "stop_order": "27",
+            "stop_id": "5045",
+            "stop_name": "Market Basket",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.39621",
+            "stop_lon": "-71.041468"
+          },
+          {
+            "stop_order": "28",
+            "stop_id": "5684",
+            "stop_name": "Everett Ave @ Maple St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.397256",
+            "stop_lon": "-71.040081"
+          },
+          {
+            "stop_order": "29",
+            "stop_id": "5685",
+            "stop_name": "Everett Ave @ Carter St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.398951",
+            "stop_lon": "-71.040591"
+          },
+          {
+            "stop_order": "30",
+            "stop_id": "5597",
+            "stop_name": "Washington Ave @ Reynolds Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.403055",
+            "stop_lon": "-71.036281"
+          },
+          {
+            "stop_order": "31",
+            "stop_id": "15649",
+            "stop_name": "Summit Ave @ Lafayette Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.402415",
+            "stop_lon": "-71.033439"
+          },
+          {
+            "stop_order": "32",
+            "stop_id": "15650",
+            "stop_name": "Summit Ave @ Chelsea Soldiers Home",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.401825",
+            "stop_lon": "-71.030729"
+          },
+          {
+            "stop_order": "33",
+            "stop_id": "15651",
+            "stop_name": "Summit Ave @ Warren Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.401434",
+            "stop_lon": "-71.029118"
+          },
+          {
+            "stop_order": "34",
+            "stop_id": "5625",
+            "stop_name": "325 Washington Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.403101",
+            "stop_lon": "-71.036144"
+          },
+          {
+            "stop_order": "35",
+            "stop_id": "15625",
+            "stop_name": "Everett Ave @ Revere Beach Pkwy",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.402641",
+            "stop_lon": "-71.041771"
+          },
+          {
+            "stop_order": "36",
+            "stop_id": "5687",
+            "stop_name": "Chelsea St @ Malden St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.402878",
+            "stop_lon": "-71.04268"
+          },
+          {
+            "stop_order": "37",
+            "stop_id": "5688",
+            "stop_name": "Chelsea St @ Luke Rd",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.402874",
+            "stop_lon": "-71.043921"
+          },
+          {
+            "stop_order": "38",
+            "stop_id": "5689",
+            "stop_name": "Chelsea St @ Irving St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.403156",
+            "stop_lon": "-71.04637"
+          },
+          {
+            "stop_order": "39",
+            "stop_id": "5691",
+            "stop_name": "Chelsea St @ Mead St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.404564",
+            "stop_lon": "-71.049929"
+          },
+          {
+            "stop_order": "40",
+            "stop_id": "5692",
+            "stop_name": "Chelsea St @ Edmester Ct",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.405279",
+            "stop_lon": "-71.051946"
+          },
+          {
+            "stop_order": "41",
+            "stop_id": "5693",
+            "stop_name": "Chelsea St @ Plumer St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.40601",
+            "stop_lon": "-71.053488"
+          },
+          {
+            "stop_order": "42",
+            "stop_id": "5496",
+            "stop_name": "Broadway @ Norwood St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.406992",
+            "stop_lon": "-71.055681"
+          },
+          {
+            "stop_order": "43",
+            "stop_id": "5559",
+            "stop_name": "Broadway opp Second St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.405543",
+            "stop_lon": "-71.056979"
+          },
+          {
+            "stop_order": "44",
+            "stop_id": "5560",
+            "stop_name": "Broadway @ Gladstone St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.403867",
+            "stop_lon": "-71.058531"
+          },
+          {
+            "stop_order": "45",
+            "stop_id": "5561",
+            "stop_name": "Santilli Circle",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.402829",
+            "stop_lon": "-71.067636"
+          },
+          {
+            "stop_order": "46",
+            "stop_id": "6569",
+            "stop_name": "Corporation Way",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.404686",
+            "stop_lon": "-71.075506"
+          },
+          {
+            "stop_order": "47",
+            "stop_id": "5271",
+            "stop_name": "Wellington Station Busway",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.402581",
+            "stop_lon": "-71.076089"
+          }
+        ]
+      },
+      {
+        "direction_id": "1",
+        "direction_name": "Inbound",
+        "stop": [
+          {
+            "stop_order": "1",
+            "stop_id": "5271",
+            "stop_name": "Wellington Station Busway",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.402581",
+            "stop_lon": "-71.076089"
+          },
+          {
+            "stop_order": "2",
+            "stop_id": "5563",
+            "stop_name": "Santilli Circle",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.40268",
+            "stop_lon": "-71.06754"
+          },
+          {
+            "stop_order": "3",
+            "stop_id": "5565",
+            "stop_name": "Broadway @ Gladstone St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.403864",
+            "stop_lon": "-71.058383"
+          },
+          {
+            "stop_order": "4",
+            "stop_id": "5695",
+            "stop_name": "Broadway @ Everett Sq",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.406792",
+            "stop_lon": "-71.055701"
+          },
+          {
+            "stop_order": "5",
+            "stop_id": "5637",
+            "stop_name": "Chelsea St @ Victoria St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.4064",
+            "stop_lon": "-71.054381"
+          },
+          {
+            "stop_order": "6",
+            "stop_id": "5638",
+            "stop_name": "Chelsea St @ Spring St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.40517",
+            "stop_lon": "-71.051943"
+          },
+          {
+            "stop_order": "7",
+            "stop_id": "5639",
+            "stop_name": "137 Chelsea St opp Mead St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.404456",
+            "stop_lon": "-71.049897"
+          },
+          {
+            "stop_order": "8",
+            "stop_id": "5640",
+            "stop_name": "Chelsea St @ S Ferry St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.404066",
+            "stop_lon": "-71.048341"
+          },
+          {
+            "stop_order": "9",
+            "stop_id": "5642",
+            "stop_name": "221 Chelsea St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.403088",
+            "stop_lon": "-71.046633"
+          },
+          {
+            "stop_order": "10",
+            "stop_id": "5643",
+            "stop_name": "271 Chelsea St opp Luke Rd",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.402798",
+            "stop_lon": "-71.044177"
+          },
+          {
+            "stop_order": "11",
+            "stop_id": "5644",
+            "stop_name": "Chelsea St opp Frances St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.402773",
+            "stop_lon": "-71.043325"
+          },
+          {
+            "stop_order": "12",
+            "stop_id": "15645",
+            "stop_name": "Everett Ave @ Revere Beach Pkwy",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.402067",
+            "stop_lon": "-71.041716"
+          },
+          {
+            "stop_order": "13",
+            "stop_id": "5597",
+            "stop_name": "Washington Ave @ Reynolds Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.403055",
+            "stop_lon": "-71.036281"
+          },
+          {
+            "stop_order": "14",
+            "stop_id": "15649",
+            "stop_name": "Summit Ave @ Lafayette Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.402415",
+            "stop_lon": "-71.033439"
+          },
+          {
+            "stop_order": "15",
+            "stop_id": "15650",
+            "stop_name": "Summit Ave @ Chelsea Soldiers Home",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.401825",
+            "stop_lon": "-71.030729"
+          },
+          {
+            "stop_order": "16",
+            "stop_id": "15651",
+            "stop_name": "Summit Ave @ Warren Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.401434",
+            "stop_lon": "-71.029118"
+          },
+          {
+            "stop_order": "17",
+            "stop_id": "5625",
+            "stop_name": "325 Washington Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.403101",
+            "stop_lon": "-71.036144"
+          },
+          {
+            "stop_order": "18",
+            "stop_id": "5646",
+            "stop_name": "Everett Ave @ Carter St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.399203",
+            "stop_lon": "-71.040815"
+          },
+          {
+            "stop_order": "19",
+            "stop_id": "5647",
+            "stop_name": "Everett Ave @ Vale St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.397287",
+            "stop_lon": "-71.040221"
+          },
+          {
+            "stop_order": "20",
+            "stop_id": "5648",
+            "stop_name": "Spruce St @ Everett Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.395052",
+            "stop_lon": "-71.039983"
+          },
+          {
+            "stop_order": "20",
+            "stop_id": "5045",
+            "stop_name": "Market Basket",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.39621",
+            "stop_lon": "-71.041468"
+          },
+          {
+            "stop_order": "21",
+            "stop_id": "15045",
+            "stop_name": "Spruce St @ Second St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.393744",
+            "stop_lon": "-71.042282"
+          },
+          {
+            "stop_order": "22",
+            "stop_id": "15046",
+            "stop_name": "Spruce St @ Williams St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.392509",
+            "stop_lon": "-71.044421"
+          },
+          {
+            "stop_order": "23",
+            "stop_id": "15047",
+            "stop_name": "Captains Row @ Commandants Way",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.391747",
+            "stop_lon": "-71.047492"
+          },
+          {
+            "stop_order": "24",
+            "stop_id": "15048",
+            "stop_name": "150 Captains Row",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.390859",
+            "stop_lon": "-71.045684"
+          },
+          {
+            "stop_order": "25",
+            "stop_id": "15049",
+            "stop_name": "Captains Row @ Boatswains Way",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.388457",
+            "stop_lon": "-71.046016"
+          },
+          {
+            "stop_order": "26",
+            "stop_id": "15050",
+            "stop_name": "5 Admirals Way",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.388937",
+            "stop_lon": "-71.046742"
+          },
+          {
+            "stop_order": "27",
+            "stop_id": "25051",
+            "stop_name": "Captains Row @ Commandants Way",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.391829",
+            "stop_lon": "-71.047391"
+          },
+          {
+            "stop_order": "28",
+            "stop_id": "15052",
+            "stop_name": "Commandants Way @ Williams St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.39232",
+            "stop_lon": "-71.044534"
+          },
+          {
+            "stop_order": "29",
+            "stop_id": "15053",
+            "stop_name": "45 Spruce St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.393645",
+            "stop_lon": "-71.042218"
+          },
+          {
+            "stop_order": "30",
+            "stop_id": "15055",
+            "stop_name": "Spruce St @ Everett Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.395152",
+            "stop_lon": "-71.039597"
+          },
+          {
+            "stop_order": "31",
+            "stop_id": "15054",
+            "stop_name": "100 Everett Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.394289",
+            "stop_lon": "-71.039363"
+          },
+          {
+            "stop_order": "32",
+            "stop_id": "5650",
+            "stop_name": "Arlington St @ Fifth St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.394716",
+            "stop_lon": "-71.036276"
+          },
+          {
+            "stop_order": "33",
+            "stop_id": "5651",
+            "stop_name": "Sixth St @ Walnut St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.395012",
+            "stop_lon": "-71.034252"
+          },
+          {
+            "stop_order": "34",
+            "stop_id": "5604",
+            "stop_name": "Sixth St @ Washington Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.394433",
+            "stop_lon": "-71.03362"
+          },
+          {
+            "stop_order": "35",
+            "stop_id": "5605",
+            "stop_name": "Washington Ave @ Broadway",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.392841",
+            "stop_lon": "-71.034136"
+          },
+          {
+            "stop_order": "36",
+            "stop_id": "5606",
+            "stop_name": "Broadway @ Fourth St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.391797",
+            "stop_lon": "-71.035912"
+          },
+          {
+            "stop_order": "37",
+            "stop_id": "5653",
+            "stop_name": "Broadway opp Cross St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.39055",
+            "stop_lon": "-71.03815"
+          },
+          {
+            "stop_order": "38",
+            "stop_id": "5614",
+            "stop_name": "Park St @ Hawthorne St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.390263",
+            "stop_lon": "-71.035553"
+          },
+          {
+            "stop_order": "39",
+            "stop_id": "5654",
+            "stop_name": "Central Ave @ Shawmut St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.389857",
+            "stop_lon": "-71.033679"
+          },
+          {
+            "stop_order": "40",
+            "stop_id": "5656",
+            "stop_name": "89 Central Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.389433",
+            "stop_lon": "-71.032109"
+          },
+          {
+            "stop_order": "41",
+            "stop_id": "5657",
+            "stop_name": "Central Ave @ Highland Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.388932",
+            "stop_lon": "-71.030247"
+          },
+          {
+            "stop_order": "42",
+            "stop_id": "5658",
+            "stop_name": "Central Ave @ Willow St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.388267",
+            "stop_lon": "-71.02681"
+          },
+          {
+            "stop_order": "43",
+            "stop_id": "5659",
+            "stop_name": "245 Central Ave",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.387687",
+            "stop_lon": "-71.023775"
+          },
+          {
+            "stop_order": "44",
+            "stop_id": "5670",
+            "stop_name": "Chelsea St opp Curtis St",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.383997",
+            "stop_lon": "-71.022681"
+          },
+          {
+            "stop_order": "45",
+            "stop_id": "5679",
+            "stop_name": "Chelsea St @ Eagle Sq",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.381404",
+            "stop_lon": "-71.025506"
+          },
+          {
+            "stop_order": "46",
+            "stop_id": "5665",
+            "stop_name": "Bennington St @ Neptune Rd",
+            "parent_station": "",
+            "parent_station_name": "",
+            "stop_lat": "42.379968",
+            "stop_lon": "-71.025214"
+          },
+          {
+            "stop_order": "47",
+            "stop_id": "5666",
+            "stop_name": "Wood Island Station Busway",
+            "parent_station": "place-wimnl",
+            "parent_station_name": "Wood Island",
+            "stop_lat": "42.3796403",
+            "stop_lon": "-71.02286539"
+          }
+        ]
+      }
+    ]
+  }
+}

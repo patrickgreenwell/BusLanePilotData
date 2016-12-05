@@ -1,0 +1,27 @@
+db["trip-stops"].aggregate([
+	{
+		$match:
+		{
+			"stop-id": "5560"
+		}
+	},
+	{
+		$lookup:
+		{
+			from: "stops",
+			localField: "stop-id",
+			foreignField:"stop_id",
+			as : "stops"
+		}	
+	},
+	{
+		$project:
+		{
+			"stop-id": 1,
+			"stops": 1,
+			"_id": 0
+		}
+	}
+
+]);
+

@@ -1,0 +1,6 @@
+Route,Begining Stop Name, Begining Stop Id, End Stop Name, End Stop Id, Begining Bus Lane Time, Finish Bus Lane Time,Begining EpocTime, Begining EpocTime
+97, Hancock St@ Broadway ,5052 , Broadway @ GladStone St, 5560, 2016-12-05 04:00,2016-12-05 09:00, 1480928400, 1480946400
+104,Ferry St @ Broadway,5354 ,Broadway @ GladStone St, 5560, 2016-12-05 04:00,2016-12-05 09:00, 1480928400, 1480946400
+109,Broadway @ Ferry St,5488,Broadway @ GladStone St, 5560, 2016-12-05 04:00,2016-12-05 09:00, 1480928400, 1480946400
+112,Broadway @ Norwood St,5496 ,Broadway @ GladStone St, 5560, 2016-12-05 04:00,2016-12-05 09:00, 1480928400, 1480946400
+119,Broadway @ Norwood St, 5496,Broadway @ GladStone St, 5560, 2016-12-05 04:00,2016-12-05 09:00, 1480928400, 1480946400
